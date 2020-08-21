@@ -7,14 +7,14 @@
                     <div class="single_widget_area d-flex mb-30">
                         <!-- Logo -->
                         <div class="footer-logo mr-50">
-                            <a href="#"><img src="assets/img/core-img/logo2.png" alt=""></a>
+                            <a href="#"><img src="../assets/img/core-img/logo2.png" alt=""></a>
                         </div>
                         <!-- Footer Menu -->
                         <div class="footer_menu">
                             <ul>
                                 <li><a href="shop.html">Shop</a></li>
                                 <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="<?= ('user/contact');?>">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -81,17 +81,17 @@
     <!-- ##### Footer Area End ##### -->
 
     <!-- jQuery (Necessary for All JavaScript Plugins) -->
-    <script src="<?= base_url('assets/js/jquery/jquery-2.2.4.min.js');?>"></script>
+    <script src="../assets/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="<?= base_url('assets/js/popper.min.js');?>"></script>
+    <script src="../assets/js/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="<?= base_url('assets/js/bootstrap.min.js');?>"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
     <!-- Plugins js -->
-    <script src="<?= base_url('assets/js/plugins.js');?>"></script>
+    <script src="../assets/js/plugins.js"></script>
     <!-- Classy Nav js -->
-    <script src="assets/js/classy-nav.min.js"></script>
+    <script src="../assets/js/classy-nav.min.js"></script>
     <!-- Active js -->
-    <script src="assets/js/active.js"></script>
+    <script src="../assets/js/active.js"></script>
 <!--
     <script type="text/javascript">
         $(document).ready(function(){

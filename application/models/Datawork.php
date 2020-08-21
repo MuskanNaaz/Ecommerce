@@ -1,5 +1,4 @@
 <?php
-
 class Datawork extends CI_model
 {
     public function insert($table, $fields)
