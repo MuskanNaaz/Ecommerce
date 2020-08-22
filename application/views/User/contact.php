@@ -16,3 +16,13 @@
         </div>
 
     </div>
+    
+   138901808829-tk0esvjfhm0u5nipck8h6le23kiijd26.apps.googleusercontent.com
+   
+  3fz1dDp-ghFiG-Uq2oT_LJOq
+  
+ Your Client ID
+138901808829-tk0esvjfhm0u5nipck8h6le23kiijd26.apps.googleusercontent.com
+-------------------
+3fz1dDp-ghFiG-Uq2oT_LJOq
+Your Client Secret
